@@ -1,0 +1,17 @@
+[2023-09-09 21:28:02,671][INFO]  * Running on http://0.0.0.0:2345/ (Press CTRL+C to quit)
+[2023-09-09 21:29:56,445][INFO] from 127.0.0.1 req /ask [Siren.py][ask][OK] GET Host: 0.0.0.0:2345
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ b''
+[2023-09-09 21:29:56,453][INFO] 127.0.0.1 - - [09/Sep/2023 21:29:56] "[37mGET /do HTTP/1.1[0m" 200 -
+[2023-09-09 21:29:56,456][INFO] from 127.0.0.1 req /ask [Siren.py][ask][OK] GET Host: 0.0.0.0:2345
+User-Agent: python-requests/2.22.0
+Accept-Encoding: gzip, deflate
+Accept: */*
+Connection: keep-alive
+
+ b''
+[2023-09-09 21:29:56,458][INFO] 127.0.0.1 - - [09/Sep/2023 21:29:56] "[37mGET /ask HTTP/1.1[0m" 200 -
